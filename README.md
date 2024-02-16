@@ -11,10 +11,10 @@
 
 <div align="center">
   <a href="https://github.com/Well152">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Well152&count_private=true&include_all_commits=true&show_icons=true&theme=chartreuse-dark&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Well152&count_private=true&include_all_commits=true&show_icons=true&theme=chartreuse-dark&hide_border=false&show_owner=true"/> <br>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Well152&theme=chartreuse-dark&hide_border=false&&layout=compact"/>
   </a>
-</div>
+</div> 
 <br>
 <div align="center">
   <h3>Languages and Tools:</h1> <br>
